@@ -2,6 +2,8 @@
 // This is used for creating a new post type within Wordpress.
 // Explanations of the functionality are inline comments
 // https://developer.wordpress.org/reference/functions/register_post_type/
+// This file lives in wp-content/mu-plugins which stands for Must Use plugins 
+// which are plugins that can't be disabled by a WP user
 //========================================================================
 
 <?php
